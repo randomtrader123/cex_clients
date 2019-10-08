@@ -2,7 +2,7 @@
 Example api and websocket clients for CEX.io exchange.
 
 ## Requirements   
-### Python3:  
+### Python2:  
 websocket-client==0.37.0  
 requests==2.11.1  
 
